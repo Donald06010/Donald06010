@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Donald06010
 - 👀 I’m interested in Node JS And React Developing
-- 🌱 I’m currently learning Node JS
+- 🌱 I’m currently learning >>.NET MVC FRAMEWORK
 - 💞️ I’m looking to collaborate on Nothing
 - 📫 How to reach me ...nikhil.kateliya@icloud.com
 
